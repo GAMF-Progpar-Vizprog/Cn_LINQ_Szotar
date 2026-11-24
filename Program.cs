@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace CnLINQ_Szotar
+namespace Cn_LINQ_Szotar
 {
   /// <summary>
   /// Néhány szótárfunkciót megvalósító egyszerű program, melynek célja LINQ to objects
